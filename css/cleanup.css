@@ -5,3 +5,7 @@
 #wall div {
   display: none;
 }
+
+.parent #tag-4{
+  display: none;
+}
